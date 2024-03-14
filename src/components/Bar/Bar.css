@@ -1,0 +1,18 @@
+.bar {
+    color: var(--default-color-2);
+    padding: 20px;
+    text-align: center;
+    background-color: #f8f9fa;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.bar a {
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #007BFF;
+    font-size: 15px;
+    text-decoration: none;
+}
+.bar a:hover {
+    color: #0056b3;
+    text-decoration: underline;
+}

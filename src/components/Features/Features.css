@@ -1,0 +1,9 @@
+.features {
+    text-transform: capitalize;
+}
+.features span {
+    margin-right: 10px;
+    background-color: var(--primary-color-1) !important;
+    font-weight: bold;
+    margin-bottom: 10px;
+}

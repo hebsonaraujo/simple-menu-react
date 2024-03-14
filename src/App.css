@@ -1,0 +1,34 @@
+.global-main {
+    background-color: #f2f2f2;
+}
+:root {
+    --primary-color-1: #007BFF;
+    --primary-color-2: #FF3B3F;
+    --primary-color-3: #00C49A;
+    --primary-color-4: #FFC107;
+
+    --secondary-color-1: #72C3FC;
+    --secondary-color-2: #FF7A7C;
+    --secondary-color-3: #6CFFD2;
+    --secondary-color-4: #FFE864;
+
+    --default-color-1: #000000;
+    --default-color-2: #FFFFFF;
+    --default-color-3: #F2F2F2;
+    --default-color-4: #666666;
+
+    --highlights-color-1: #FF9F00;
+    --highlights-color-2: #9F00FF;
+    --highlights-color-3: #FF00A1;
+    --highlights-color-4: #00FF00;
+
+    /*Header Component:*/
+    --header-bg:#007BFF;
+    --header-text-color:#FFFFFF;
+    --header-links-color:#72C3FC;
+
+    --primary-color: pink;
+    --secondary-color: #6c757d;
+    --text-color: #333333;
+    --tile-color: 
+  }
