@@ -2,14 +2,8 @@
 
 Este é um simples menu implementado em React com TypeScript.
 
- `npm run build`
+Compila o aplicativo para produção na pasta `dist`: `npm run build`
 
-Compila o aplicativo para produção na pasta `dist`.
+Inicia o server em modo de desenvolvimento: `npm run start`
 
- `npm run start`
-
-Inicia o server em modo de desenvolvimento.
-
-`npm run create`
-
-Criar um novo componente.
+Criar um novo componente: `npm run create`
